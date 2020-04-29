@@ -6,7 +6,7 @@ Unit testing is the execution of a complete class, routine or small program that
 written by a single programmer or team of programmers, which is tested in isolation
 from the more complete system.
 
-Whitebox testing
+Whitebox testing.
 
 [Intergration Testing]
 Integration testing is the combined execution of two or more classes, packages,
